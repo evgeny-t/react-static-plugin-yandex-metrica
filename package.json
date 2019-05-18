@@ -1,0 +1,29 @@
+{
+  "name": "react-static-plugin-yandex-metrica",
+  "version": "1.0.0",
+  "description": "React Static plugin to integrate Yandex Metrica",
+  "main": "dist/browser.api.js",
+  "scripts": {
+    "build": "babel src --out-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeny-t/react-static-plugin-yandex-metrica.git"
+  },
+  "keywords": [
+    "react-static"
+  ],
+  "author": "Evgeny Timoshenko <timoshenko.evgeny@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeny-t/react-static-plugin-yandex-metrica/issues"
+  },
+  "homepage": "https://github.com/evgeny-t/react-static-plugin-yandex-metrica#readme",
+  "devDependencies": {
+    "@babel/cli": "7.4.4",
+    "@babel/core": "7.4.4",
+    "@babel/preset-env": "7.4.4",
+    "@babel/preset-react": "7.0.0"
+  }
+}
