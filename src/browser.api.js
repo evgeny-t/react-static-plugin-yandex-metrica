@@ -23,7 +23,6 @@ ym(${id}, "init", ${JSON.stringify(params)});
 `;
 
     return ({ children }) => {
-      console.log("Root");
       return (
         <OldRoot>
           <Head

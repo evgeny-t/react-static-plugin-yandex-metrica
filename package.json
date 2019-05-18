@@ -1,11 +1,10 @@
 {
   "name": "react-static-plugin-yandex-metrica",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "React Static plugin to integrate Yandex Metrica",
   "main": "dist/browser.api.js",
   "scripts": {
-    "build": "babel src --out-dir dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src --out-dir dist"
   },
   "repository": {
     "type": "git",
